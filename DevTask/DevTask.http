@@ -1,0 +1,6 @@
+@DevTask_HostAddress = http://localhost:5063
+
+GET {{DevTask_HostAddress}}/api/credit/getall
+Accept: application/json
+
+###
